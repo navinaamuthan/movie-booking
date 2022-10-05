@@ -56,7 +56,3 @@ Please make sure to update tests as appropriate.
 <img src="img/screenshot/15.png">
 <img src="database/ER.png">
 
-
-## Created By
-[aman05382](https://github.com/aman05382) [RoshanB392](https://github.com/RoshanB392) [Yadav99](https://github.com/Yadav99) [ramtekerohit](https://github.com/ramtekerohit)
-
